@@ -2,3 +2,4 @@
 /COD-BOT.iml
 /bot-env
 src/config.py
+src/__pycache__
