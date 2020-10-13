@@ -31,7 +31,7 @@ async def game(ctx, *, arg):
 
 @bot.command(name='stats')
 async def stats(ctx, *, arg):
-    """Shows the recent stats for the specified user"""
+    """Shows selected stats for the specified user"""
     await ctx.send('Stats for user ' + arg + ':')
 
 
